@@ -5,7 +5,7 @@
     font-size: 70px;
 }
 body{
-    --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326559 165.37%);
+    background-color: rgb(80, 67, 255);
 }
 .tabela{
     font-size: 30px;
