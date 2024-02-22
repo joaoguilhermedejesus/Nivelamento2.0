@@ -5,9 +5,9 @@
     font-size: 70px;
 }
 body{
-    background-color: rgb(80, 67, 255);
+    --azulescuro-- linear
 }
 .tabela{
-    font-size: 20px;
+    font-size: 30px;
     color: rgb(255, 255, 255);
 }
