@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Poppins:wght@200;400;700&display=swap')
 
-.título{
+título{
     text-align: center;
     background-color: red;
     color: white;
     font-size: 70px;
 }
 
-.body{
+body{
     background-color: blue;
 }
 
