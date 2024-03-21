@@ -13,3 +13,4 @@ for(let i=0; i <botoes.length; i++) {
 }
 }
 contadores[0].textContent = "Cotagem regresiva";
+const tempoObjetivo1 = new Date("2024-08-17");
