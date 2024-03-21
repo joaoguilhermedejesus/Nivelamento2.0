@@ -12,5 +12,5 @@ for(let i=0; i <botoes.length; i++) {
     botoes[i].classList.add("ativo");
 }
 }
-contadores[0].textContent = "tempoObjetivo";
 const tempoObjetivo1 = new Date("2024-08-17");
+contadores[0].textContent = "tempoObjetivo";
